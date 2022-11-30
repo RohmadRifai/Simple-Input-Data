@@ -1,6 +1,6 @@
-# latihan
+# Simple Input Data
 
-A new Flutter project.
+Just a simple input data with database SQLite.
 
 ## Getting Started
 
